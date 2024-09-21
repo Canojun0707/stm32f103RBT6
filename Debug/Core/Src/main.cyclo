@@ -1,0 +1,17 @@
+../Core/Src/main.c:93:5:main	5
+../Core/Src/main.c:170:6:SystemClock_Config	3
+../Core/Src/main.c:210:13:MX_I2C1_Init	2
+../Core/Src/main.c:244:13:MX_TIM3_Init	6
+../Core/Src/main.c:303:13:MX_USART1_UART_Init	2
+../Core/Src/main.c:336:13:MX_USART2_UART_Init	2
+../Core/Src/main.c:369:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:402:13:MX_GPIO_Init	1
+../Core/Src/main.c:439:6:HAL_UART_RxCpltCallback	13
+../Core/Src/main.c:500:6:RFID_SECERN_USER	31
+../Core/Src/main.c:523:6:HC05_identification	5
+../Core/Src/main.c:535:6:i2cLcd_HelloGuest	3
+../Core/Src/main.c:561:6:i2cLcd_intruder	2
+../Core/Src/main.c:578:6:i2cLcd_HelloUser	3
+../Core/Src/main.c:604:6:PWM_Serovomotor	1
+../Core/Src/main.c:613:6:HAL_TIM_PeriodElapsedCallback	2
+../Core/Src/main.c:627:6:Error_Handler	1
